@@ -23,7 +23,7 @@ macOS and Windows:
 5. On the left panel, find *index.html* file and right click on it.
 6. When drop down menu appears, select *Open in Other Browser" to choose Chrome.
 7. This application should appear in the Chrome browser as a working website for the company, Horiseon.
-![image](https://user-images.githubusercontent.com/84090538/120901361-fdc7e380-c5ff-11eb-9a57-3672813ab803.png)
+<img width="407" alt="Option B" src="https://user-images.githubusercontent.com/84090538/120901675-002b3d00-c602-11eb-838c-4b48ba127ed2.png">
 
 # Credits
 Thanks to @trinhnguyen who has contributed to this project.
