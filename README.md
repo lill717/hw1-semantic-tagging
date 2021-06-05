@@ -17,8 +17,7 @@ Before you begin, ensure you have met the following requirements:
 To install Horiseon Website application, follow these steps:
 macOS and Windows:
 1. Open a new tab in Chrome
-2. Then press Ctrl (Windows) or Cmd (Mac) + O.
-3. It will bring up the Open File menu. 
+2. Then press Ctrl (Windows) or Cmd (Mac) + O. This will bring up the Open File menu. 
 4. Find your HTML file and open it with Visual Studion Code.
 5. On the left panel, find *index.html* file and right click on it.
 6. When drop down menu appears, select *Open in Other Browser" to choose Chrome.
