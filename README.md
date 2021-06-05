@@ -1,7 +1,7 @@
 (hw1-semantic-tagging - The correct homework assignment)
 # Horiseon Website
 
-
+<img width="111" alt="Screen Shot 2021-06-05 at 1 37 54 PM" src="https://user-images.githubusercontent.com/84090538/120901986-711f2480-c603-11eb-90bf-5dddfe829acc.png">
 # Project name
 Horiseon Website application that allows participants to view the company, Horiseon's webiste.
 
