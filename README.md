@@ -7,6 +7,8 @@ Horiseon Website application that allows participants to view the company, Horis
 
 It contains several links and images with information on what services the company offers. 
 
+<img width="286" alt="Screen Shot 2021-06-05 at 1 29 59 PM" src="https://user-images.githubusercontent.com/84090538/120901800-80ea3900-c602-11eb-9e54-4de432d46f0d.png">
+
 # Prerequisites
 Before you begin, ensure you have met the following requirements:
 * You have installed the latest version of Visual Studio Code.
